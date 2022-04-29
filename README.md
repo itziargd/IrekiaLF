@@ -1,7 +1,11 @@
 # IrekiaLF
 The corpus of original and easy to read (simplified) text of the Irekia communication channel by the Government of the Basque Country.
 
-CSV file, separation -> tabulation
+CSV file
+separation: tab
+character del.: "
+
+
 Columns:
 - ID: partition, text and sentence id e.g test_46301_1 means that it belongs to the test partition, 46301 is the id of the text, and 1 is the id of the sentence in the text
 - Original_sentence: the sentence in the original text (complex sentence)
